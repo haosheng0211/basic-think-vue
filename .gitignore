@@ -4,3 +4,9 @@
 *.log
 .env
 composer.lock
+package-lock.json
+/node_modules
+/public/js
+/public/css
+/public/image
+/public/font
